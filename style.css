@@ -1,0 +1,15 @@
+body {
+Background-image:url(../res/wallpaper.jpg);
+padding: 100px;
+margin: 100px;
+background-repeat: repeat;
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+font-weight: normal;
+font:normal;
+line-height:1.6em;
+}
+nav {color: crimson;}
+h1{color:yellow;}
+
+.classe{color: white;}
